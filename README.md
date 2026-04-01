@@ -2,7 +2,7 @@
 
 # hey, I'm Godman 👋
 
-**Backend Engineer in the making** · building things that actually work · always learning
+**Backend Engineer** · building scalable systems and APIs
 
 [![Twitter](https://img.shields.io/badge/@ben__alanche-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ben_alanche)
 [![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-yes-brightgreen?style=for-the-badge)](#)
@@ -15,13 +15,12 @@
 
 ```js
 const godman = {
-  role:      "Backend Engineer (student mode: ON)",
-  location:  "Nigeria 🇳🇬",
+  role:      "Backend Engineer",
+  focus:     "scalable APIs, system design, and backend architecture",
   building:  ["APIs", "auth systems", "LMS platforms", "project management tools"],
-  learning:  ["PostgreSQL", "system design", "DSA", "Docker", "gRPC"],
-  stack:     ["Node.js", "Express", "NestJS", "MongoDB", "PostgreSQL", "Redis"],
-  goal:      "become the kind of engineer who can build anything — and teach it too",
-  available: true, // open to collabs and interesting projects
+  stack:     ["Node.js", "TypeScript", "Express", "Nestjs" "PostgreSQL", "Redis"],
+  interests: ["distributed systems", "performance optimization", "clean architecture"],
+  available: true,
 };
 ```
 
@@ -64,14 +63,13 @@ const godman = {
 | **Auth Service** | standalone auth — JWT, refresh tokens, email verification, RBAC | Express, PostgreSQL, bcrypt |
 | **URL Shortener** | short links with click analytics (browser, OS, referrer) | Express, PostgreSQL |
 
-> more coming as I work through my 90-day roadmap 👇
-
+> continuously building and refining production-ready backend systems
 ---
 
 ### 📍 currently locked in on
 
-- 🗄 **PostgreSQL** — moving beyond MongoDB, learning real relational design
-- 🧩 **DSA** — arrays, hash maps, trees, graphs — grinding LeetCode daily
+- 🗄 **PostgreSQL** — designing relational schemas with PostgreSQL
+- 🧩 **DSA** — strengthening problem-solving with DSA
 - 🏗 **System design** — CAP theorem, scaling, microservices vs monolith
 - 💳 **Stripe + queues** — building a full SaaS billing system with BullMQ
 - ☁️ **Cloud & monitoring** — AWS, Docker, Prometheus + Grafana
@@ -89,7 +87,5 @@ no gatekeeping here. let's build and grow together.
 ---
 
 <div align="center">
-
-*"the goal isn't to be the smartest in the room — it's to be the one who actually ships."*
 
 </div>

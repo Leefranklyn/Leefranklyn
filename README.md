@@ -66,13 +66,13 @@ const godman = {
 > continuously building and refining production-ready backend systems
 ---
 
-### 📍 currently locked in on
+### 📍 current focus
 
-- 🗄 **PostgreSQL** — designing relational schemas with PostgreSQL
-- 🧩 **DSA** — strengthening problem-solving with DSA
-- 🏗 **System design** — CAP theorem, scaling, microservices vs monolith
-- 💳 **Stripe + queues** — building a full SaaS billing system with BullMQ
-- ☁️ **Cloud & monitoring** — AWS, Docker, Prometheus + Grafana
+- 🗄 **PostgreSQL** — designing efficient relational schemas and optimizing queries  
+- 🧩 **Problem solving** — applying DSA to real-world backend challenges  
+- 🏗 **System design** — building scalable architectures (monoliths, microservices, trade-offs)  
+- 💳 **Payments & queues** — implementing billing systems with Stripe and BullMQ  
+- ☁️ **Cloud & observability** — deploying and monitoring systems with AWS, Docker, Prometheus & Grafana  
 
 ---
 
